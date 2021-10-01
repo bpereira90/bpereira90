@@ -1,6 +1,6 @@
 👋 Hi, I’m @bpereira90  
-👀 I’m interested in data-related topics, from scalable data processing to machine learning.  
-🌱 I’m humbly learning software development good practices, cloud management, and some website development on the side.  
+👀 Interested in development, data processing and machine learning.  
+🌱 Trying to learn and apply good software development practices.  
 
 <!---
 bpereira90/bpereira90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
