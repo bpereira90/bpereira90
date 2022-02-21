@@ -1,4 +1,3 @@
-👋 Hi, I’m @bpereira90  
 👀 Interested in development (Python, Scala), data processing (Spark, ETLs) and machine learning.  
 🌱 Constantly trying to learn and apply good software development practices.  
 
